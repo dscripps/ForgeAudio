@@ -1,0 +1,9 @@
+[
+	{
+	    "do": {
+	        "add_ios_system_framework": {
+	            "framework": "AVFoundation.framework"
+	        }
+	    }
+	}
+]
