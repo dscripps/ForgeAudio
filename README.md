@@ -4,14 +4,20 @@ ForgeAudio
 Allows users of trigger.io Forge to play audio files with Javascript.
 
 Installing:
+
 1.  Follow the instructions on trigger.io to enable plugins for your account.  Instructions are found on their website at http://docs.trigger.io/en/v1.4/modules/native/index.html.
+
 2.  From TriggerToolkit, add a new plugin, called "audio".
+
 3.  Replace the "plugin" folder with the "plugin" folder in this project.
+
 4.  Add the plugin to your config.json file
 
 Usage:
 The plugin includes methods for playing sound effects (like a click sound) and background music.  Just call the methods using the example Javascript below inside your Forge HTML app.
+
 These methods come as-is without any guarantees!  They at least work with mp3 and aif formats, and possibly others.
+
 I also have the plugin source if you are interested, just send me an email (it's nothing special).
 
 *Sound Effects*
